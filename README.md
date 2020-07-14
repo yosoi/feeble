@@ -1,2 +1,2 @@
 # feeble
-A platformer game (and teachinge example).
+A platformer game (and teaching example).
